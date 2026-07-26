@@ -5,15 +5,16 @@
 > [!NOTE]
 > 
 > ## 👨🏻‍💻 Currently I am:
-> - **Building** full-stack applications with *Spring Boot* and *Angular*.
-> - **Deepening my expertise** in *Spring Boot* and *RESTful API development*.
+> - **Building** full-stack applications with *ASP.NET* and *Angular*.
+> - **Deepening my expertise** in *ASP.NET* and *RESTful API development*.
 > - **Expanding my knowledge** of the *Angular* framework and modern *Frontend Development*.
-> - **Strengthening my understanding** of *Database Design*, with a focus on *MySQL*.
+> - **Strengthening my understanding** of *Database Design*, with a focus on *MsServer*.
 > - **Studying** *System Design* principles for building *scalable* and *distributed systems*.
 > - **Exploring** *Design Patterns* and *Software Architecture* to build *maintainable* and *robust* applications.
+> - **Studying** Book of "10 Software Patterns that every studen should know" and apply concepts in projects.
 >
 > ### 💬 Ask me about
-> - *Competitive Programming*, *Spring Boot*, *Angular*, *UI/UX design*,  *Web Development*, *OOP*, *SQL*, *Database*, *System Design*, and *Android Studio*.
+> - *Competitive Programming*, *Dot Net*, *Angular*, *UI/UX design*,  *Web Development*, *OOP*, *SQL*, *Database*, *System Design*, and *Android Studio*.
 >
 > ### 📫 How to reach me
 > - Send a message on **<a href="https://www.linkedin.com/in/pro3zim/">LinkedIn</a>**
