@@ -67,5 +67,5 @@
 
 ---
 <div align="center">
-	<img src="https://github-readme-streak-stats.herokuapp.com?user=ma7moud3zim"/>  
+	<img src="https://github-readme-streak-stats.herokuapp.com?user=ma7moud3zim&theme=sea"/>  
 </div>
