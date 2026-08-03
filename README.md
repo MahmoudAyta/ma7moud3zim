@@ -5,6 +5,7 @@
 > [!NOTE]
 > 
 > ## 👨🏻‍💻 Currently I am:
+> - **Attending Internship** at **Geidea** as a Backend ASP.NET Developer.
 > - **Building** full-stack applications with *ASP.NET* and *Angular*.
 > - **Deepening my expertise** in *ASP.NET* and *RESTful API development*.
 > - **Expanding my knowledge** of the *Angular* framework and modern *Frontend Development*.
