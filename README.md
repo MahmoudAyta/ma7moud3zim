@@ -65,8 +65,3 @@
 <img src="https://img.shields.io/badge/Google%20Metrics-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
 
 </div>
-
----
-<div align="center">
-	<img src="https://github-readme-streak-stats.herokuapp.com?user=ma7moud3zim&theme=sea"/>  
-</div>
